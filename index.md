@@ -69,7 +69,7 @@ Please adhere to this project's `code of conduct`.
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| #0a192f | ![#0a192f](https://placehold.co/100x50/0a192f/FFFFFF/png)  |
+| #0a192f black | ![#0a192f](https://placehold.co/100x50/0a192f/FFFFFF/png)  |
 | Example Color | ![#f8f8f8](https://placehold.co/100x50/0a192f/FFFFFF/png)  |
 | Example Color | ![#00b48a](https://placehold.co/100x50/0a192f/FFFFFF/png)  |
 | Example Color | ![#00d1a0](https://placehold.co/100x50/0a192f/FFFFFF/png)  |
